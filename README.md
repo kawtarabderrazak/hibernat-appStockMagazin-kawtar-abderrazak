@@ -43,3 +43,7 @@ Création de produits, catégories, commandes et lignes de commande.
 Affichage des produits par catégorie.
 Affichage des produits commandés entre deux dates.
 Affichage des produits dans une commande spécifique.
+
+https://github.com/user-attachments/assets/90678a1a-f658-44ac-9c12-9ce2aea5f68e
+
+
